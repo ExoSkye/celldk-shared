@@ -1,2 +1,2 @@
-# ps3dk
+# PS3DK
 A PS3 SDK
