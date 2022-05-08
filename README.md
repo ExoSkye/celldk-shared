@@ -1,2 +1,2 @@
-# PS3DK
-A PS3 SDK
+# CellDK-Shared
+Shared files for CellDK
